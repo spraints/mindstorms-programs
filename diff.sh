@@ -5,4 +5,4 @@ set -e
 set -o nounset
 
 set -x
-mind-meld mindstorms diff refs/heads/mindstormmindstorms
+mind-meld mindstorms diff refs/heads/mindstorms
